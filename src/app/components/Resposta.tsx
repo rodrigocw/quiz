@@ -1,4 +1,4 @@
-'use client'
+
 
 import RespostaModel from "../model/resposta";
 import styles from './Resposta.module.css'

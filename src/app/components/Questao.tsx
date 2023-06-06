@@ -1,4 +1,4 @@
-'use client'
+
 
 import styles from './Questao.module.css'
 import QuestaoModel from "../model/questao"
