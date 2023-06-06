@@ -5,7 +5,7 @@ import QuestaoModel from "./model/questao";
 import Questionario from "./components/Questionario";
 import { useRouter } from "next/navigation";
 
-const BASE_URL = 'http://quiz-swart-mu.vercel.app' //'http://localhost:3000'
+const BASE_URL = 'https://quiz-swart-mu.vercel.app' //'http://localhost:3000'
 
 // Criado no inicio como nulo pois sem da erro de compilação
 const questaoJesus = new QuestaoModel(1,'', [])
