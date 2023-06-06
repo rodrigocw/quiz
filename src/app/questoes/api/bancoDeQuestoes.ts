@@ -26,7 +26,7 @@ const questoes: QuestaoModel[] = [
         RespostaModel.errada('Trapézio'),
         RespostaModel.certa('Escaleno'),
     ]),
-/*    new QuestaoModel(205, 'Quem compôs o Hino da Independência?', [
+    new QuestaoModel(205, 'Quem compôs o Hino da Independência?', [
         RespostaModel.errada('Castro Alves'),
         RespostaModel.errada('Manuel Bandeira'),
         RespostaModel.errada('Carlos Gomes'),
@@ -97,7 +97,7 @@ const questoes: QuestaoModel[] = [
         RespostaModel.errada('Barão de Mauá'),
         RespostaModel.errada('Marquês de Pombal'),
         RespostaModel.certa('Duque de Caxias'), 
-    ]), */
+    ]),
 ]
 
 export default questoes
